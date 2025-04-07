@@ -1,1 +1,1 @@
-# Inventory-Management-System-Project-SQL
+# SQL- Inventory-Management-System-Project
